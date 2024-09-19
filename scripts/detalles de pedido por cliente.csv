@@ -1,0 +1,6 @@
+nombre_cliente,nombre_producto,cantidad,precio_unitario,fecha_pedido
+"Juan pascual",Pantalones,1,29.99,2024-09-01
+"Maria Lopez",Pantalones,1,29.99,2024-09-02
+"Carlos Garcia",Zapatos,2,49.99,2024-09-03
+"Ana Martinez",Sombrero,1,14.99,2024-09-04
+"Laura Fernandez",Zapatos,1,49.99,2024-09-05
